@@ -52,5 +52,5 @@ PUERTO 443 - HTTPS - Version: nginx 1.18.0
 Este código debe usarse **solo con fines educativos o con autorización**. No me hago responsable del mal uso de esta herramienta.
 
 ---
-✍️ Desarrollado por [Tu Nombre o Usuario]
+✍️ Desarrollado por SANTI
 
